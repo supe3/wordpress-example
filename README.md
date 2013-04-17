@@ -1,3 +1,6 @@
+Changes: Added in WP ticketing plugin, because the default settings weren't loaded when installing normally.
+
+======================
 Wordpress on OpenShift
 ======================
 
